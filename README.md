@@ -1,4 +1,4 @@
-# Virtual Private Networks Lab – Azure Deployment
+# Virtual Private Networks Lab 
 
 This repository documents a **personal lab from my VPN Fundamentals training**, conducted on **Microsoft Azure**. The lab demonstrates **VM deployment, VPN client installation, IP verification, and secure connection testing**.
 
